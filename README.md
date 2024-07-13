@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+HEAD
+
 # Trend_Tailor_frontend
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> d477950 (Initialize project using Create React App)
+=======
+# Trend_Tailor_frontend
+>>>>>>> 037b3443c2738b7af8ab465bc1daa485a939cfc9
